@@ -1,0 +1,6 @@
+com/twitter/clone/dao/model/UserFollowingMappingEntity.class
+com/twitter/clone/dao/model/PostDetailsEntity.class
+com/twitter/clone/dao/interfaces/IUserFollowingMappingRepository.class
+com/twitter/clone/dao/interfaces/IUserDetailRepository.class
+com/twitter/clone/dao/model/UserDetailEntity.class
+com/twitter/clone/dao/interfaces/IPostDetailsRepository.class
